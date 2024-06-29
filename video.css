@@ -18,6 +18,13 @@ body {
     background-size: cover;
     position: relative;
 }
+.header h1{
+    font-size: 24px;
+    color: #fff;
+}
+
+
+
 
 nav {
     display: flex;
